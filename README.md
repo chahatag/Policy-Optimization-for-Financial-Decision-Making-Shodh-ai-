@@ -23,7 +23,7 @@ All code is consolidated into a single Jupyter Notebook to ensure easy reproduci
 **Key Findings:**
 The Deep Learning model prioritized precision/recall (risk aversion), while the RL agent prioritized volume (profit maximization). Due to the dataset's high profitability ratio, the RL agent converged to a strategy similar to the baseline, highlighting the need for future reward shaping.
 
-## 🚀 How to Run
+## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/chahatag/Policy-Optimization-for-Financial-Decision-Making-Shodh-ai-.git](https://github.com/chahatag/Policy-Optimization-for-Financial-Decision-Making-Shodh-ai-.git)
+   git clone https://github.com/chahatag/Policy-Optimization-for-Financial-Decision-Making-Shodh-ai-.git
