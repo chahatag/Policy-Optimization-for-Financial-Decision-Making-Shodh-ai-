@@ -26,4 +26,4 @@ The Deep Learning model prioritized precision/recall (risk aversion), while the 
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   https://github.com/chahatag/Policy-Optimization-for-Financial-Decision-Making-Shodh-ai-.git
+   git clone [https://github.com/chahatag/Policy-Optimization-for-Financial-Decision-Making-Shodh-ai-.git](https://github.com/chahatag/Policy-Optimization-for-Financial-Decision-Making-Shodh-ai-.git)
